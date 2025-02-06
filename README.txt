@@ -1,0 +1,1 @@
+View notebook on nbviewer - https://nbviewer.org/github/hyaneva/IS362_Week2/blob/main/Hristiyana%20Yaneva%20IS362%20Week%202%20Assignment.ipynb
